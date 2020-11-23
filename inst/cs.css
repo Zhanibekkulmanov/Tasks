@@ -1,0 +1,125 @@
+.phone {
+  position: absolute;
+  top: 65px;
+  left: 330px;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.f {
+  height: 430px;
+  width: 242px;
+  top: 155px;
+  left: 472px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  animation: slider 6s infinite;
+}
+.login {
+  height: 30px;
+  width: 240px;
+  top: 220px;
+  left: 850px;
+  position: absolute;
+}
+.pass {
+  height: 30px;
+  width: 240px;
+  top: 264px;
+  left: 850px;
+  position: absolute;
+}
+.inst {
+  width: 270px;
+  height: 95px;
+  top: 105px;
+  left: 840px;
+  position: absolute;
+}
+#sub {
+  position: absolute;
+  top: 310px;
+  left: 850px;
+  height: 28px;
+  width: 250px;
+  background: aqua;
+  border-color: aqua;
+  border: aquamarine;
+  border-radius: 3px;
+}
+#hr {
+  position: absolute;
+  top: 350px;
+  left: 850px;
+}
+#hr1 {
+  position: absolute;
+  top: 350px;
+  left: 1019px;
+}
+.or {
+  position: absolute;
+  top: 335px;
+  left: 960px;
+}
+.face {
+  width: 20px;
+  height: 20px;
+  top: 400px;
+  left: 890px;
+  position: absolute;
+}
+.fc {
+  position: absolute;
+  top: 387px;
+  left: 920px;
+  color: blue;
+}
+.pas {
+  position: absolute;
+  top: 410px;
+  left: 945px;
+  font-size: 10px;
+}
+.reg {
+  position: absolute;
+  top: 500px;
+  left: 835px;
+  font-size: 13px;
+}
+.regstr {
+  color: blue;
+}
+.foot {
+  position: absolute;
+  top: 750px;
+  left: 150px;
+  color: blue;
+  font-size: 13px;
+}
+.inface {
+  color: gray;
+}
+.android {
+  height: 40px;
+  width: 140px;
+  left: 990px;
+  top: 590px;
+  position: absolute;
+}
+.apple {
+  height: 40px;
+  width: 140px;
+  left: 830px;
+  top: 590px;
+  position: absolute;
+}
+.last {
+  position: absolute;
+  font-size: 13px;
+  top: 545px;
+  left: 895px;
+}
